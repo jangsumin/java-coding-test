@@ -1,5 +1,7 @@
 // Lv1
 
+package programmers;
+
 class Main_덧칠하기 {
     public int solution(int n, int m, int[] section) {
         int result = 0;
