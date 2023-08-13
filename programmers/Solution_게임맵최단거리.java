@@ -1,4 +1,5 @@
 // bfs 활용해서 풀기
+package programmers;
 
 import java.io.*;
 import java.util.*;
