@@ -1,4 +1,4 @@
-pacakage programmers;
+package programmers;
 
 class Solution_타겟넘버 {
     static int answer = 0;
