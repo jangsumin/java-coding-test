@@ -1,4 +1,4 @@
-package a0925.camp;
+package baekjoon;
 
 import java.io.*;
 import java.util.*;
