@@ -1,5 +1,3 @@
-package codeTree;
-
 import java.io.*;
 import java.util.*;
 

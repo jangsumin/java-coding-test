@@ -1,7 +1,9 @@
+package programmers;
+
 import java.io.*;
 import java.util.*;
 
-class Solution {
+class Solution_압축 {
     public int[] solution(String msg) {
         List<Integer> result = new ArrayList<>();
         
