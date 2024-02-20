@@ -1,1 +1,4 @@
 .DS_Store
+.idea/
+java-coding-test.iml
+out/
